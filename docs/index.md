@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 애미디진 이훈희 홈피
 
 You can use the [editor on GitHub](https://github.com/dlgnsgml789/dlgnsgml789.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
